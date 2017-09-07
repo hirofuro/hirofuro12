@@ -3,7 +3,7 @@
 ## 準備
 
 ```
-git clone 
+git clone git@github.com:takanashi66/cssgridlayoutmodule.git
 ```
 
 ## Node.jsのインストール
