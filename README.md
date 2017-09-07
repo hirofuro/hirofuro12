@@ -1,5 +1,7 @@
 # CSS Grid Layout Module
 
+広島フロントエンド勉強会 Vol.12のデモ用サンプル
+
 ## 準備
 
 ```
